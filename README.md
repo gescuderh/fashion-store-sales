@@ -44,7 +44,7 @@ Frecuencia de compras: indica la frecuencia con la que el cliente realiza activi
 
 ## Análisis SQL
 
-Para analizar el dataset en MySQL y proporcionar información valiosa a la dirección de la tienda he propuesto las siguientes preguntas: (Descarga el archivo .sql en el siguiente enlace 👉​
+Para analizar el dataset en MySQL y proporcionar información valiosa a la dirección de la tienda he propuesto las siguientes preguntas: (Descarga el archivo .sql en el siguiente enlace 👉​ https://github.com/gescuderh/fashion-store-sales/blob/main/fashion-store-sales.sql)
 
 ⭐​ Cantidad de registros
 
@@ -133,7 +133,7 @@ Cada visualización dispone de unos filtros determinados para filtrar los result
   
   ![Screenshot del dashboard Análisis de Ventas](https://github.com/gescuderh/fashion-store-sales/blob/main/analisisdeproductos.png)
 
-Puedes descargar el proyecto realizado en PowerBI a través del siguiente enlace 👉​
+Puedes descargar el proyecto realizado en PowerBI a través del siguiente enlace 👉​ https://github.com/gescuderh/fashion-store-sales/blob/main/fashion-store-sales.pbix
 
 ## Insights
 
