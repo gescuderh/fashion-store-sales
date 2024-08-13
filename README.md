@@ -162,3 +162,11 @@ Los clientes que más nos compran estan comprendidos entre los 25 y los 64 años
 En el comparativo entre hombres y mujeres, observamos que las mujeres prefieren utilizar Credit Card como medio de pago, eligen el Free Shipping y frecuentan compras cada dos semanas mientras que los hombres hacen más uso de dinero efectivo como medio de pago, eligen preferentemente Next Day Air como tipo de envío y frecuentan más las compras cada tres meses.
 
 - **ANÁLISIS DE PRODUCTOS**:
+
+Como vimos en el dashboard de Ventas, los tres productos más vendidos han sido "Blouse", "Jewelry" y "Pants" con 171 unidades vendidas. Los tres colores más vendidos han sido el Olive, el Yellow y el Silver. La talla más vendida ha sido la talla M, mientras que la talla menos vendida ha sido la talla XL.
+
+En cuanto a la valoración de nuestros productos, obtenemos una media de 3,75 puntos sobre 5 y los tres productos mejor valorados de nuestro catalogo son "Gloves" con 3'86, "Sandals" con 3'84 y "Boots" con 3'81 empatado con "Hats". De nuestros 3 mejores productos en cuanto a ventas, solamente "Jewelry" está por dencima de la media en valoraciones.
+
+Filtrando por género, observamos que el producto más valorado por las chicas ha sido "Handbag" con 4,01 y el peor valorado "Shirt" con 3,48 de valoración, los colores predominantes que eligen son el Yellow, el Olive y el Pink, y los tres productos que más compran son "Blouse", "Sandals" y "Shirt". Por otra parte, el producto más valorado por los chicos ha sido "Golves" con 3,89 y el peor valorado "Handbag" con 3,63 de valoración, los colores predominantes que eligen son el Silver, el Cyan y el Teal, y los tres productos que más compran son "Pants", "Jewelry" y "Coat".
+
+Si filtramos por temporada, el producto más vendido por temporada ha sido: Primavera ("Sweater"), Verano ("Pants"), Otoño ("Jacket") e Invierno ("Sunglasses").
