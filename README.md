@@ -6,7 +6,7 @@ Este dataset proporciona información completa sobre las preferencias, tendencia
 
 El dataset consta de 3.900 registros donde cada registro es una compra realizada por un consumidor. En este ejemplo, cada registro corresponde a un consumidor diferente por lo que contamos con 3.900 consumidores y cada uno de ellos adquiere un único producto.
 
-ℹ️​ ##Glosario de conjunto de datos (por columnas):
+## Glosario de conjunto de datos (por columnas):
 
 Edad: la edad del cliente, que proporciona información demográfica para la segmentación y las estrategias de marketing dirigidas.
 
@@ -42,7 +42,7 @@ Método de pago: especifica el modo de pago empleado por el cliente (por ejemplo
 
 Frecuencia de compras: indica la frecuencia con la que el cliente realiza actividades de compra, una métrica fundamental para evaluar la lealtad del cliente y el valor de por vida.
 
-##🚩​ Análisis SQL
+## Análisis SQL
 
 Para analizar el dataset en MySQL y proporcionar información valiosa a la dirección de la tienda he propuesto las siguientes preguntas: (Descarga el archivo .sql en el siguiente enlace 👉​
 
@@ -114,7 +114,7 @@ Para analizar el dataset en MySQL y proporcionar información valiosa a la direc
 
 ⭐​ TOP 3 más comprado por categoría
 
-##🚩 Análisis PowerBI
+## Análisis PowerBI
 
 A partir del análisis realizado en MySQL he procedido a la creación de un dashboard específico para las ventas, otro para los clientes y otro para los productos mediante PowerBI de manera que en cada dashboard se analicen variables específicas para cada campo de conocimiento y generar esa información valiosa para la dirección de la tienda.
 
@@ -127,7 +127,7 @@ Cada visualización dispone de unos filtros determinados para filtrar los result
 
 Puedes descargar el proyecto realizado en PowerBI a través del siguiente enlace 👉​
 
-##🚩 Insights
+## Insights
 
 - ANÁLISIS DE VENTAS:
 Se han realizado un total de 3.900 ventas con un beneficio de 233.081 (USD) de las cuales 2.652 corresponden a clientes Hombre.
