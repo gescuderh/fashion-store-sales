@@ -123,21 +123,22 @@ Para obtener las visualizaciones necesarias se ha utilizado lenguaje DAX tanto b
 Cada visualización dispone de unos filtros determinados para filtrar los resultados:
 - **ANÁLISIS DE VENTAS**: disponemos de filtro de género, filtro de temporada y filtro de categoría de producto.
   
-  ![Screenshot del dashboard Análisis de Ventas](https://gyazo.com/1cbbb10faf9e510d0ca788455299c531)
+  ![Screenshot del dashboard Análisis de Ventas](https://github.com/gescuderh/fashion-store-sales/blob/main/analisisdeventas.png)
   
 - **ANÁLISIS DE CLIENTES**: disponemos de filtro de género.
   
-  ![Screenshot del dashboard Análisis de Ventas](https://gyazo.com/17dac6e4dea699d95332f24a69f083f4)
+  ![Screenshot del dashboard Análisis de Ventas](https://github.com/gescuderh/fashion-store-sales/blob/main/analisisdeclientes.png)
   
 - **ANÁLISIS DE PRODUCTOS**: disponemos de filtro de género, filtro de temporada, filtro de categoría de producto y filtro por producto.
   
-  ![Screenshot del dashboard Análisis de Ventas](https://gyazo.com/04affb89cdd7f469f881618b7566a9c0)
+  ![Screenshot del dashboard Análisis de Ventas](https://github.com/gescuderh/fashion-store-sales/blob/main/analisisdeproductos.png)
 
 Puedes descargar el proyecto realizado en PowerBI a través del siguiente enlace 👉​
 
 ## Insights
 
 - **ANÁLISIS DE VENTAS**:
+
 Se han realizado un total de 3.900 ventas con un beneficio de 233.081 (USD) de las cuales 2.652 corresponden a clientes Hombre.
 
 La categoría de producto que más ventas ha obtenido es "Clothing" y las 3 localidades desde donde más nos compran han sido Montana, California e Idaho aunque Illinois que se sitúa en 4ª posición es la 2ª localidad que mayor beneficio aporta al total obtenido.
@@ -150,3 +151,14 @@ La temporada donde se han realizado un número de ventas mayor ha sido en Primav
 
 - **ANÁLISIS DE CLIENTES**:
 
+De los 3.900 clientes existentes, hay 1.053 clientes suscritos (todos ellos hombres) y se han utilizado un total de 1.677 cógidos promocionales (por hombres).
+
+El método de pago más utilizado en general ha sido Paypal con 677 transacciones mientras que el menos utilizado ha sido Bank Transfer. El tipo de envío más escogido ha sido el Free Shipping con 675 elecciones mientras que el menos elegido ha sido el 2-Day Shipping con 627 elecciones. En cuanto a la frecuencia de compra, lo más habitual son las compras cada 3 meses mientras que lo menos habitual es que compren cada semana.
+
+Montana registra la mayor cantidad de clientes que compran en nuestra tienda con un total de 96 clientes, mientras que la región que menos clientes registra es Rhode Island con 63 empatada con Kansas.
+
+Los clientes que más nos compran estan comprendidos entre los 25 y los 64 años, mientras que los clientes de hasta 24 años o de más de 65 años son los menos predominantes. Sin embargo, el gasto medio de estos dos últimos segmentos de edad es de 60,20 (USD) y 59,70 (USD) respectivamente, situándose por encima de otros segmentos de edad.
+
+En el comparativo entre hombres y mujeres, observamos que las mujeres prefieren utilizar Credit Card como medio de pago, eligen el Free Shipping y frecuentan compras cada dos semanas mientras que los hombres hacen más uso de dinero efectivo como medio de pago, eligen preferentemente Next Day Air como tipo de envío y frecuentan más las compras cada tres meses.
+
+- **ANÁLISIS DE PRODUCTOS**:
