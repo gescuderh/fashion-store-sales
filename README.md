@@ -6,7 +6,7 @@ Este dataset proporciona información completa sobre las preferencias, tendencia
 
 El dataset consta de 3.900 registros donde cada registro es una compra realizada por un consumidor. En este ejemplo, cada registro corresponde a un consumidor diferente por lo que contamos con 3.900 consumidores y cada uno de ellos adquiere un único producto.
 
-##ℹ️​ Glosario de conjunto de datos (por columnas):
+ℹ️​ ##Glosario de conjunto de datos (por columnas):
 
 Edad: la edad del cliente, que proporciona información demográfica para la segmentación y las estrategias de marketing dirigidas.
 
