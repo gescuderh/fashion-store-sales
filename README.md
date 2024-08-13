@@ -8,39 +8,39 @@ El dataset consta de 3.900 registros donde cada registro es una compra realizada
 
 ## Glosario de conjunto de datos (por columnas):
 
-Edad: la edad del cliente, que proporciona información demográfica para la segmentación y las estrategias de marketing dirigidas.
+**Age**: la edad del cliente, que proporciona información demográfica para la segmentación y las estrategias de marketing dirigidas.
 
-Género: la identificación de género del cliente, una variable demográfica clave que influye en las preferencias de productos y los patrones de compra.
+**Gender**: la identificación de género del cliente, una variable demográfica clave que influye en las preferencias de productos y los patrones de compra.
 
-Artículo comprado: el producto o artículo específico seleccionado por el cliente durante la transacción.
+**Item Purchased**: el producto o artículo específico seleccionado por el cliente durante la transacción.
 
-Categoría: la clasificación o el grupo amplio al que pertenece el artículo comprado (por ejemplo, ropa, productos electrónicos, comestibles).
+**Category**: la clasificación o el grupo amplio al que pertenece el artículo comprado (por ejemplo, ropa, productos electrónicos, comestibles).
 
-Monto de la compra (USD): el valor monetario de la transacción, expresado en dólares estadounidenses (USD), indica el costo del artículo o los artículos comprados.
+**Purchase Amount (USD)**: el valor monetario de la transacción, expresado en dólares estadounidenses (USD), indica el costo del artículo o los artículos comprados.
 
-Ubicación: la ubicación geográfica donde se realizó la compra, que ofrece información sobre las preferencias regionales y las tendencias del mercado.
+**Location**: la ubicación geográfica donde se realizó la compra, que ofrece información sobre las preferencias regionales y las tendencias del mercado.
 
-Talla: la especificación de talla (si corresponde) del artículo comprado, relevante para prendas de vestir, calzado y ciertos bienes de consumo.
+**Sice**: la especificación de talla (si corresponde) del artículo comprado, relevante para prendas de vestir, calzado y ciertos bienes de consumo.
 
-Color: La variante o elección de color asociada con el artículo comprado, que influye en las preferencias del cliente y la disponibilidad del producto.
+**Color**: La variante o elección de color asociada con el artículo comprado, que influye en las preferencias del cliente y la disponibilidad del producto.
 
-Temporada: La relevancia estacional del artículo comprado (por ejemplo, primavera, verano, otoño, invierno), que afecta la gestión del inventario y las estrategias de marketing.
+**Season**: La relevancia estacional del artículo comprado (por ejemplo, primavera, verano, otoño, invierno), que afecta la gestión del inventario y las estrategias de marketing.
 
-Calificación de la revisión: Una evaluación numérica o cualitativa proporcionada por el cliente con respecto a su satisfacción con el artículo comprado.
+**Review Rating**: Una evaluación numérica o cualitativa proporcionada por el cliente con respecto a su satisfacción con el artículo comprado.
 
-Estado de la suscripción: Indica si el cliente ha optado por un servicio de suscripción, lo que ofrece información sobre su nivel de lealtad y potencial de ingresos recurrentes.
+**Subscription Status**: Indica si el cliente ha optado por un servicio de suscripción, lo que ofrece información sobre su nivel de lealtad y potencial de ingresos recurrentes.
 
-Tipo de envío: Especifica el método utilizado para entregar el artículo comprado (por ejemplo, envío estándar, entrega exprés), lo que influye en los tiempos y costos de entrega.
+**Shipping Type**: Especifica el método utilizado para entregar el artículo comprado (por ejemplo, envío estándar, entrega exprés), lo que influye en los tiempos y costos de entrega.
 
-Descuento aplicado: Indica si se aplicaron descuentos promocionales a la compra, lo que arroja luz sobre la sensibilidad al precio y la efectividad de la promoción.
+**Discount Applied**: Indica si se aplicaron descuentos promocionales a la compra, lo que arroja luz sobre la sensibilidad al precio y la efectividad de la promoción.
 
-Código promocional utilizado: Indica si se utilizó un código promocional o cupón durante la transacción, lo que ayuda a evaluar el éxito de la campaña de marketing.
+**Promo Code Used**: Indica si se utilizó un código promocional o cupón durante la transacción, lo que ayuda a evaluar el éxito de la campaña de marketing.
 
-Compras anteriores: Proporciona información sobre la cantidad o frecuencia de compras anteriores realizadas por el cliente, lo que contribuye a la segmentación de clientes y las estrategias de retención.
+**Previous Purchases**: Proporciona información sobre la cantidad o frecuencia de compras anteriores realizadas por el cliente, lo que contribuye a la segmentación de clientes y las estrategias de retención.
 
-Método de pago: especifica el modo de pago empleado por el cliente (por ejemplo, tarjeta de crédito, efectivo) y ofrece información sobre las opciones de pago preferidas.
+**Payment Method**: especifica el modo de pago empleado por el cliente (por ejemplo, tarjeta de crédito, efectivo) y ofrece información sobre las opciones de pago preferidas.
 
-Frecuencia de compras: indica la frecuencia con la que el cliente realiza actividades de compra, una métrica fundamental para evaluar la lealtad del cliente y el valor de por vida.
+**Frecuency of Purchases**: indica la frecuencia con la que el cliente realiza actividades de compra, una métrica fundamental para evaluar la lealtad del cliente y el valor de por vida.
 
 ## Análisis SQL
 
