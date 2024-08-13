@@ -114,11 +114,23 @@ Para analizar el dataset en MySQL y proporcionar información valiosa a la direc
 
 ⭐​ TOP 3 más comprado por categoría
 
+Accessories	Jewelry	171
+Accessories	Sunglasses	161
+Accessories	Belt	161
+Clothing	Blouse	171
+Clothing	Pants	171
+Clothing	Shirt	169
+Footwear	Sandals	160
+Footwear	Shoes	150
+Footwear	Sneakers	145
+Outerwear	Jacket	163
+Outerwear	Coat	161
+
 ## Análisis PowerBI
 
 A partir del análisis realizado en MySQL he procedido a la creación de un dashboard específico para las ventas, otro para los clientes y otro para los productos mediante PowerBI de manera que en cada dashboard se analicen variables específicas para cada campo de conocimiento y generar esa información valiosa para la dirección de la tienda.
 
-Para obtener las visualizaciones necesarias se ha utilizado lenguaje DAX tanto básico como complejo, se ha creado una nueva columna para solucionar un problema con la columna Review Rating ya que al importar nuestro archivo .csv el tratamiento del tipo de dato no era el correcto y se ha aplicado un formato condicional a las visualizaciones en función del filtro de género aplicado (Hombre/Mujer).
+Para obtener las visualizaciones necesarias se ha utilizado lenguaje DAX tanto básico como complejo, se ha creado una nueva columna para solucionar un problema con la columna Review Rating ya que al importar nuestro archivo .csv el tratamiento del tipo de dato no era el correcto y se ha aplicado un formato condicional a las visualizaciones en función del filtro de género aplicado (Hombre/Mujer) para que los datos se muestren en un color determinado en función de si son datos generales, datos de hombre o datos de mujer.
 
 Cada visualización dispone de unos filtros determinados para filtrar los resultados:
 - **ANÁLISIS DE VENTAS**: disponemos de filtro de género, filtro de temporada y filtro de categoría de producto.
