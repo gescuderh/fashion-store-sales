@@ -121,15 +121,23 @@ A partir del análisis realizado en MySQL he procedido a la creación de un dash
 Para obtener las visualizaciones necesarias se ha utilizado lenguaje DAX tanto básico como complejo, se ha creado una nueva columna para solucionar un problema con la columna Review Rating ya que al importar nuestro archivo .csv el tratamiento del tipo de dato no era el correcto y se ha aplicado un formato condicional a las visualizaciones en función del filtro de género aplicado (Hombre/Mujer).
 
 Cada visualización dispone de unos filtros determinados para filtrar los resultados:
-- ANÁLISIS DE VENTAS: disponemos de filtro de género, filtro de temporada y filtro de categoría de producto.
-- ANÁLISIS DE CLIENTES: disponemos de filtro de género.
-- ANÁLISIS DE PRODUCTOS: disponemos de filtro de género, filtro de temporada, filtro de categoría de producto y filtro por producto.
+- **ANÁLISIS DE VENTAS**: disponemos de filtro de género, filtro de temporada y filtro de categoría de producto.
+  
+  ![Screenshot del dashboard Análisis de Ventas](https://gyazo.com/1cbbb10faf9e510d0ca788455299c531)
+  
+- **ANÁLISIS DE CLIENTES**: disponemos de filtro de género.
+  
+  ![Screenshot del dashboard Análisis de Ventas](https://gyazo.com/17dac6e4dea699d95332f24a69f083f4)
+  
+- **ANÁLISIS DE PRODUCTOS**: disponemos de filtro de género, filtro de temporada, filtro de categoría de producto y filtro por producto.
+  
+  ![Screenshot del dashboard Análisis de Ventas](https://gyazo.com/04affb89cdd7f469f881618b7566a9c0)
 
 Puedes descargar el proyecto realizado en PowerBI a través del siguiente enlace 👉​
 
 ## Insights
 
-- ANÁLISIS DE VENTAS:
+- **ANÁLISIS DE VENTAS**:
 Se han realizado un total de 3.900 ventas con un beneficio de 233.081 (USD) de las cuales 2.652 corresponden a clientes Hombre.
 
 La categoría de producto que más ventas ha obtenido es "Clothing" y las 3 localidades desde donde más nos compran han sido Montana, California e Idaho aunque Illinois que se sitúa en 4ª posición es la 2ª localidad que mayor beneficio aporta al total obtenido.
@@ -140,5 +148,5 @@ Las mujeres no han utilizado ningún código promocional para obtener descuento 
 
 La temporada donde se han realizado un número de ventas mayor ha sido en Primavera con 999 ventas y la que menos Verano con 955.
 
-- ANÁLISIS DE CLIENTES:
+- **ANÁLISIS DE CLIENTES**:
 
