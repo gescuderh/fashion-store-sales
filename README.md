@@ -44,7 +44,7 @@ Frecuencia de compras: indica la frecuencia con la que el cliente realiza activi
 
 ## Análisis SQL
 
-Para analizar el dataset en MySQL y proporcionar información valiosa a la dirección de la tienda he propuesto las siguientes preguntas: (Descarga el archivo .sql en el siguiente enlace 👉​ https://github.com/gescuderh/fashion-store-sales/blob/main/fashion-store-sales.sql)
+Para analizar el dataset en MySQL y proporcionar información valiosa a la dirección de la tienda he propuesto las siguientes preguntas: (Descarga el archivo .sql en el siguiente enlace 👉​ https://github.com/gescuderh/fashion-store-sales/blob/main/fashion-store-sales.sql para ejecutar las consultas y obtener el resultado)
 
 ⭐​ Cantidad de registros
 
@@ -113,18 +113,6 @@ Para analizar el dataset en MySQL y proporcionar información valiosa a la direc
 ⭐​ TOP100 Clientes con mayor gasto
 
 ⭐​ TOP 3 más comprado por categoría
-
-Accessories	Jewelry	171
-Accessories	Sunglasses	161
-Accessories	Belt	161
-Clothing	Blouse	171
-Clothing	Pants	171
-Clothing	Shirt	169
-Footwear	Sandals	160
-Footwear	Shoes	150
-Footwear	Sneakers	145
-Outerwear	Jacket	163
-Outerwear	Coat	161
 
 ## Análisis PowerBI
 
