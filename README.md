@@ -6,7 +6,8 @@ Este dataset proporciona información completa sobre las preferencias, tendencia
 
 El dataset consta de 3.900 registros donde cada registro es una compra realizada por un consumidor. En este ejemplo, cada registro corresponde a un consumidor diferente por lo que contamos con 3.900 consumidores y cada uno de ellos adquiere un único producto.
 
-ℹ️​ Glosario de conjunto de datos (por columnas):
+##ℹ️​ Glosario de conjunto de datos (por columnas):
+
 Edad: la edad del cliente, que proporciona información demográfica para la segmentación y las estrategias de marketing dirigidas.
 
 Género: la identificación de género del cliente, una variable demográfica clave que influye en las preferencias de productos y los patrones de compra.
@@ -41,7 +42,9 @@ Método de pago: especifica el modo de pago empleado por el cliente (por ejemplo
 
 Frecuencia de compras: indica la frecuencia con la que el cliente realiza actividades de compra, una métrica fundamental para evaluar la lealtad del cliente y el valor de por vida.
 
-🚩​ Para analizar el dataset en MySQL y proporcionar información valiosa a la dirección de la tienda he propuesto las siguientes preguntas: (Descarga el archivo .sql en el siguiente enlace 👉​
+##🚩​ Análisis SQL
+
+Para analizar el dataset en MySQL y proporcionar información valiosa a la dirección de la tienda he propuesto las siguientes preguntas: (Descarga el archivo .sql en el siguiente enlace 👉​
 
 ⭐​ Cantidad de registros
 
@@ -111,7 +114,9 @@ Frecuencia de compras: indica la frecuencia con la que el cliente realiza activi
 
 ⭐​ TOP 3 más comprado por categoría
 
-🚩 A partir del análisis realizado en MySQL he procedido a la creación de un dashboard específico para las ventas, otro para los clientes y otro para los productos mediante PowerBI de manera que en cada dashboard se analicen variables específicas para cada campo de conocimiento y generar esa información valiosa para la dirección de la tienda.
+##🚩 Análisis PowerBI
+
+A partir del análisis realizado en MySQL he procedido a la creación de un dashboard específico para las ventas, otro para los clientes y otro para los productos mediante PowerBI de manera que en cada dashboard se analicen variables específicas para cada campo de conocimiento y generar esa información valiosa para la dirección de la tienda.
 
 Para obtener las visualizaciones necesarias se ha utilizado lenguaje DAX tanto básico como complejo, se ha creado una nueva columna para solucionar un problema con la columna Review Rating ya que al importar nuestro archivo .csv el tratamiento del tipo de dato no era el correcto y se ha aplicado un formato condicional a las visualizaciones en función del filtro de género aplicado (Hombre/Mujer).
 
@@ -122,7 +127,7 @@ Cada visualización dispone de unos filtros determinados para filtrar los result
 
 Puedes descargar el proyecto realizado en PowerBI a través del siguiente enlace 👉​
 
-🚩 INSIGHTS
+##🚩 Insights
 
 - ANÁLISIS DE VENTAS:
 Se han realizado un total de 3.900 ventas con un beneficio de 233.081 (USD) de las cuales 2.652 corresponden a clientes Hombre.
